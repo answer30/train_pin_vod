@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the<item>License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an<item>AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+
+    <string-array name="map_title">
+        <item>The Las Vegas Country Club</item>
+        <item>Guardian Angel Cathedral</item>
+        <item>Westgate Las Vegas Resort  &amp; Casino</item>
+        <item>Vegas Indoor Skydiving</item>
+        <item>Sixth  &amp; Sahara Plaza</item>
+        <item>Escapology Escape Rooms Las Vegas</item>
+        <item>The Boulevard Mall</item>
+        <item>Molasky Family Park</item>
+        <item>Las Vegas National Golf Course</item>
+        <item>Francisco Center</item>
+    </string-array>
+
+    <string-array name="map_adrees">
+        <item>3000 Joe W Brown Dr, Las Vegas, NV 89109</item>
+        <item>302 Cathedral Way, Las Vegas, NV 89109</item>
+        <item>3000 Paradise Rd, Las Vegas, NV 89109</item>
+        <item>200 Convention Center Dr, Las Vegas, NV 89109</item>
+        <item>600 E Sahara Ave, Las Vegas, NV 89104</item>
+        <item>2797 S Maryland Pkwy, Las Vegas, NV 89109</item>
+        <item>3528 Maryland Parkway, Las Vegas, NV 89169</item>
+        <item>1065 E Twain Ave, Las Vegas, NV 89169</item>
+        <item>1911 E Desert Inn Rd, Las Vegas, NV 89109</item>
+        <item>2570 E Desert Inn Rd, Las Vegas, NV 89121</item>
+    </string-array>
+
+    <string-array name="movi_title">
+        <item>블랙 위도우</item>
+        <item>킬러의 보디가드 2</item>
+        <item>보스 베이비 2</item>
+        <item>크루엘라</item>
+        <item>분노의 질주 9</item>
+        <item>어벤저스 엔드게임</item>
+        <item>저스티스리그</item>
+        <item>몬스터헌터</item>
+        <item>발신제한</item>
+        <item>다만 악에서 구하소서</item>
+    </string-array>
+
+    <string-array name="movi_text">
+        <item>Directed\nRobert Rodriguez\nScreenplay\nJames Cameron, Laeta Kalogridis\nStarring\nRosa Salazar, Christoph Waltz,\nJennifer Connelly, Mahershala Ali</item>
+        <item>Directed\nJosh Cooley\nScreenplay\nStephany Folsom\nStarring\n	Tom Hanks, Tim Allen,\nJoan Cusack</item>
+        <item>Directed\nDavid F. Sandberg\nScreenplay\nHenry Gayden\nStarring\n	Zachary Levi, Asher Angel,\nMark Strong, Jack Dylan Grazer</item>
+        <item>Directed\nRob Letterman\nWritten\nNicole Perlman, Rob Letterman\nStarring\nRyan Reynolds, Justice Smith,\nKathryn Newton, Ken Watanabe</item>
+        <item>Directed\nGuy Ritchie\nScreenplay\nJohn August, Guy Ritchie\nStarring\nWill Smith, Mena Massoud,\nNaomi Scott, Marwan Kenzari</item>
+        <item>Directed\nJames Wan\nScreenplay\nDavid Leslie Johnson-McGoldrick\nStarring\nJason Momoa, Amber Heard,\nWillem Dafoe, Patrick Wilson</item>
+    </string-array>
+
+</resources>
